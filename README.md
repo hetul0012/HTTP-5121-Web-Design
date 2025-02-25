@@ -3,4 +3,15 @@
 
 ## Overview
 
-This repository contains projects and coursework for Web Design. The foundations of web design are taught in this course, with an emphasis on HTML and CSS to create accessible and responsive websites.
+This repository contains projects and work of Web Design and in this course,Learn the foundations of web design with an emphasis on HTML and CSS to create accessible and responsive websites.
+
+### Topics of Web Design
+- HTML & CSS Fundamentals
+- UX/UI Design Principles
+- Responsive & Mobile-First Design
+- Final Project & Portfolio
+
+## Technology
+- HTML
+- CSS
+- FIGMA 
